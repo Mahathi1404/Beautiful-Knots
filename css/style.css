@@ -1,0 +1,41 @@
+body,html{
+	width: 100%;
+	height: 100%;
+	font-family: 'Montserrat',sans-serif;
+	/*enabling Montserrat font family*/
+	background: url(../images/WallPaper.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+
+h1{
+	font-size: 3rem;
+	color: #171100;
+}
+
+h2{
+	font-size: 1.5rem;
+}
+.buffer{
+	height: 5rem;
+}
+.btn{
+	font-weight: 700;
+	border-radius: 300px;	
+}
+
+.btn-primary{
+	background-color:#f2d611fa ;
+	border-color: #f2d611fa;
+}
+
+.btn-primary:hover{
+	background-color:#f28311fa ;
+	border-color: #f28311fa;
+}
+.mybtn{
+	padding: 1rem 2rem;
+}
+
+a{
+	text-decoration: none;
+}
